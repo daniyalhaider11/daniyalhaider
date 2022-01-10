@@ -3,7 +3,7 @@
     Hi, I'm Daniyal! 👋 <br>
     🔥 Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
-    :notebook: I’m currently learning DS and Algo... 😭  <br>
+    :notebook: I’m currently learning SAAS and Cloud... 😭  <br>
     :email:	hyderd01@gmail.com <br>
     :facebook: https://facebook.com/daniyalhaider11 <br>
     :instagram: https://instagram.com/d.any11 <br>
