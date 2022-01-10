@@ -5,6 +5,8 @@
     :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :email:	hyderd01@gmail.com <br>
+    :facebook: https://facebook.com/daniyalhaider11
+    :instagram: https://instagram.com/d.any11
     :art: Portfolio: https://daniyalhaider.github.io <br>
     :briefcase: LinkedIn: https://linkedin.com/in/daniyalhaider11 <br>
   </samp>
